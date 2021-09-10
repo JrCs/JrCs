@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Yves Blusseau!
 
 <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=jrcs&show_icons=true&theme=cobalt" alt="JrCs"/> 
+    <img src="https://github-readme-stats.vercel.app/api?username=jrcs&show_icons=true&theme=nightowl" alt="JrCs"/> 
 </p>
 <!--
 **JrCs/JrCs* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
